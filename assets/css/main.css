@@ -909,7 +909,17 @@ section,
   font-size: 14px;
   margin-bottom: 0;
 }
-
+.skills-section {
+  padding: 50px 0;
+  }
+  .skill-card {
+  text-align: center;
+  margin-bottom: 35px;
+  }
+  .skill-card i {
+  font-size: 80px;
+  margin-bottom: 20px;
+  }
 .services .service-item:hover {
   box-shadow: 0px 5px 35px 0px rgba(0, 0, 0, 0.1);
 }
