@@ -1,0 +1,8 @@
+git config --global user.email "alymanymohamed47@gmail.com"
+git config --global user.name "Mohamed"
+
+
+save: git add . && git commit -m "finshed" && git push
+
+
+https://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@github.com/Mohamed-Elyamany/Student-blog.git
